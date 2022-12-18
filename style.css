@@ -1,0 +1,18 @@
+img{
+    width: 140px;
+    height: 140px;
+}
+table, td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+}
+
+#image{
+    display: flex;
+    align-items: center;
+}
+div{
+    display: flex;
+    justify-content: center;
+}
